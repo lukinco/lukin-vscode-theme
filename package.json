@@ -1,0 +1,44 @@
+{
+  "name": "lukin-vscode-theme",
+  "displayName": "Lukin VSCode Theme",
+  "description": "Lukin Co. VSCode Theme",
+  "version": "0.1.1",
+  "publisher": "lukinco",
+  "icon": "images/icon.png",
+  "author": "Lukin Co.",
+  "license": "MIT",
+  "galleryBanner": {
+    "color": "#F5F5F5"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lukinco/lukin-vscode-theme"
+  },
+  "bugs": {
+    "url": "https://github.com/lukinco/lukin-vscode-theme"
+  },
+  "homepage": "https://github.com/lukinco/lukin-vscode-theme",
+  "engines": {
+    "vscode": "^1.15.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "Theme",
+    "Vibrant",
+    "Dark"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Lukin Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/lukin-color-theme.json"
+      }
+    ]
+  },
+  "__metadata": {
+    "publisherDisplayName": "Lukin Co."
+  }
+}
