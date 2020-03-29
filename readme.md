@@ -19,8 +19,6 @@
   </a>
 </p>
 
-<hr />
-
 <img width="1434" alt="Lukin Theme Screenshot" src="https://user-images.githubusercontent.com/2853428/77851927-36755d00-71b2-11ea-99bd-f815895916c0.png">
 
 
