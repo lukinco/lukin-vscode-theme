@@ -32,4 +32,4 @@
 
 ## License
 
-[MIT](./license.md) – 2020
+[MIT](./license.md)
