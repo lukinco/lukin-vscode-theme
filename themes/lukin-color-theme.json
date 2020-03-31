@@ -694,7 +694,7 @@
     "editor.findMatchHighlightBackground": "#ffffff22",
     "editor.hoverHighlightBackground": "#ffffff22",
     "editorCodeLens.foreground": "#ffffff66",
-    "editorGroup.emptyBackground": "#181A1F",
+    "editorGroup.emptyBackground": "#0c0c0c",
     "editorGroup.border": "#181A1F",
     "editorGroupHeader.tabsBackground": "#000",
     "editorIndentGuide.background": "#ffffff22",
