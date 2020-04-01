@@ -2,7 +2,7 @@
   "name": "lukin-vscode-theme",
   "displayName": "Lukin Theme",
   "description": "A minimal, ultra-dark and vibrant theme for VS Code.",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "publisher": "lukinco",
   "icon": "images/icon.png",
   "author": "Lukin Co.",
