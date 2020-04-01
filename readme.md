@@ -5,7 +5,7 @@
   Lukin Theme for VS Code
 </h1>
 <p align="center">
-  A minimal, ultra dark and vibrant theme for VS Code.
+  A minimal, ultra-dark and vibrant theme for VS Code.
 </p>
 <p align="center">
   <a href="https://marketplace.visualstudio.com/items?itemName=lukinco.lukin-vscode-theme">
