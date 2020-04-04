@@ -645,29 +645,29 @@
       }
     },
     {
-			"scope": "keyword.operator.other.elixir",
-			"settings": {
-				"foreground": "#f36"
-			}
+      "scope": "keyword.operator.other.elixir",
+      "settings": {
+        "foreground": "#f36"
+      }
     },
-		{
-			"scope": "variable.other.constant.elixir",
-			"settings": {
-				"foreground": "#49f571",
-			}
-		},
-		{
-			"scope": "constant.other.symbol.elixir",
-			"settings": {
-				"foreground": "#2eceff"
-			}
+    {
+      "scope": "variable.other.constant.elixir",
+      "settings": {
+        "foreground": "#49f571",
+      }
     },
-		{
-			"scope": "parameter.variable.function.elixir",
-			"settings": {
-				"foreground": "#ffb452"
-			}
-		},
+    {
+      "scope": "constant.other.symbol.elixir",
+      "settings": {
+        "foreground": "#2eceff"
+      }
+    },
+    {
+      "scope": "parameter.variable.function.elixir",
+      "settings": {
+        "foreground": "#ffb452"
+      }
+    },
     {
       "name": "Elixir Functions",
       "scope": "source.elixir entity.name.function",
@@ -686,14 +686,14 @@
       }
     },
     {
-			"name": "Modules",
-			"scope": [
-				"variable.other.constant.elixir"
-			],
-			"settings": {
-				"foreground": "#f3ff52"
-			}
-		},
+      "name": "Modules",
+      "scope": [
+        "variable.other.constant.elixir"
+      ],
+      "settings": {
+        "foreground": "#f3ff52"
+      }
+    },
     {
       "name": "Elixir Binary Punctuations",
       "scope": "source.elixir .punctuation.binary.elixir",
@@ -807,23 +807,23 @@
     "titleBar.activeForeground": "#ffffff99",
     "titleBar.inactiveBackground": "#1E1E1E",
     "titleBar.inactiveForeground": "#ffffff99",
-		"progressBar.background": "#47ffa0",
+    "progressBar.background": "#47ffa0",
     "input.background": "#0A0A0A",
-		"input.foreground": "#f8f8f0",
+    "input.foreground": "#f8f8f0",
     "input.border": "#f36",
-		"input.placeholderForeground": "#ffffff66",
-		"inputOption.activeBorder": "#f36",
+    "input.placeholderForeground": "#ffffff66",
+    "inputOption.activeBorder": "#f36",
     "inputOption.activeBackground": "#00000000",
-		"inputValidation.infoBackground": "#0A0A0A",
-		"inputValidation.infoBorder": "#f36",
-		"inputValidation.warningBackground": "#0A0A0A",
-		"inputValidation.warningBorder": "#FFAB40",
-		"inputValidation.errorBackground": "#0A0A0A",
+    "inputValidation.infoBackground": "#0A0A0A",
+    "inputValidation.infoBorder": "#f36",
+    "inputValidation.warningBackground": "#0A0A0A",
+    "inputValidation.warningBorder": "#FFAB40",
+    "inputValidation.errorBackground": "#0A0A0A",
     "inputValidation.errorBorder": "#FF5252",
-		"pickerGroup.foreground": "#40C4FF",
-		"pickerGroup.border": "#40c3ff00",
-		"extensionButton.prominentBackground": "#47ffa0",
-		"extensionButton.prominentHoverBackground": "#40C4FF",
+    "pickerGroup.foreground": "#40C4FF",
+    "pickerGroup.border": "#40c3ff00",
+    "extensionButton.prominentBackground": "#47ffa0",
+    "extensionButton.prominentHoverBackground": "#40C4FF",
     "extensionButton.prominentForeground": "#0A0A0A",
     "editorLink.activeForeground": "#40C4FF"
   },
