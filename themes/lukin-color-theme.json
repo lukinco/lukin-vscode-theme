@@ -643,7 +643,64 @@
         "fontStyle": "bold",
         "foreground": "#f8f8f0"
       }
-    }
+    },
+    {
+			"scope": "keyword.operator.other.elixir",
+			"settings": {
+				"foreground": "#f36"
+			}
+    },
+		{
+			"scope": "variable.other.constant.elixir",
+			"settings": {
+				"foreground": "#49f571",
+			}
+		},
+		{
+			"scope": "constant.other.symbol.elixir",
+			"settings": {
+				"foreground": "#2eceff"
+			}
+    },
+		{
+			"scope": "parameter.variable.function.elixir",
+			"settings": {
+				"foreground": "#ffb452"
+			}
+		},
+    {
+      "name": "Elixir Functions",
+      "scope": "source.elixir entity.name.function",
+      "settings": {
+        "foreground": "#49f571"
+      }
+    },
+    {
+      "name": "Elixir",
+      "scope": [
+        "source.elixir variable.other.readwrite.module.elixir",
+        "source.elixir variable.other.readwrite.module.elixir punctuation.definition.variable.elixir"
+      ],
+      "settings": {
+        "foreground": "#2eceff"
+      }
+    },
+    {
+			"name": "Modules",
+			"scope": [
+				"variable.other.constant.elixir"
+			],
+			"settings": {
+				"foreground": "#f3ff52"
+			}
+		},
+    {
+      "name": "Elixir Binary Punctuations",
+      "scope": "source.elixir .punctuation.binary.elixir",
+      "settings": {
+        "foreground": "#2eceff"
+      }
+    },
   ],
   "colors": {
     "activityBar.background": "#000",
