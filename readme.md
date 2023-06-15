@@ -9,13 +9,13 @@
 </p>
 <p align="center">
   <a href="https://marketplace.visualstudio.com/items?itemName=lukinco.lukin-vscode-theme">
-    <img alt="Version" src="https://vsmarketplacebadge.apphb.com/version/lukinco.lukin-vscode-theme.svg" />
+    <img alt="Version" src="https://img.shields.io/visual-studio-marketplace/v/lukinco.lukin-vscode-theme?style=for-the-badge" />
   </a>
   <a href="https://marketplace.visualstudio.com/items?itemName=lukinco.lukin-vscode-theme">
-    <img alt="Downloads" src="https://vsmarketplacebadge.apphb.com/downloads/lukinco.lukin-vscode-theme.svg" />
+    <img alt="Downloads" src="https://img.shields.io/visual-studio-marketplace/d/lukinco.lukin-vscode-theme?style=for-the-badge" />
   </a>
   <a href="https://marketplace.visualstudio.com/items?itemName=lukinco.lukin-vscode-theme">
-    <img alt="Installs" src="https://vsmarketplacebadge.apphb.com/installs/lukinco.lukin-vscode-theme.svg" />
+    <img alt="Installs" src="https://img.shields.io/visual-studio-marketplace/i/lukinco.lukin-vscode-theme?style=for-the-badge" />
   </a>
 </p>
 
@@ -27,8 +27,7 @@
 1. Open **Extensions** sidebar panel in VS Code. `View → Extensions`
 2. Search for `Lukin Theme`
 3. Click **Install** to install it
-4. Click **Reload** to reload the editor
-5. Code > Preferences > Color Theme > **Lukin Theme**
+4. Code > Preferences > Color Theme > **Lukin Theme**
 
 ## License
 
