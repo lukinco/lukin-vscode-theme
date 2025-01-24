@@ -12,9 +12,6 @@
     <img alt="Version" src="https://img.shields.io/visual-studio-marketplace/v/lukinco.lukin-vscode-theme?style=for-the-badge" />
   </a>
   <a href="https://marketplace.visualstudio.com/items?itemName=lukinco.lukin-vscode-theme">
-    <img alt="Downloads" src="https://img.shields.io/visual-studio-marketplace/d/lukinco.lukin-vscode-theme?style=for-the-badge" />
-  </a>
-  <a href="https://marketplace.visualstudio.com/items?itemName=lukinco.lukin-vscode-theme">
     <img alt="Installs" src="https://img.shields.io/visual-studio-marketplace/i/lukinco.lukin-vscode-theme?style=for-the-badge" />
   </a>
 </p>
